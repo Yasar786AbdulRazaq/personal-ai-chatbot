@@ -1,0 +1,30 @@
+# 🤖 Gemini AI Agent using Streamlit & LiteLLM
+
+This is a simple personal AI chatbot powered by **Gemini 2.0 Flash**, using the **LiteLLM** SDK and built with **Streamlit**. It allows users to ask natural language questions and receive AI-generated answers in real time.
+
+---
+
+## 🚀 Demo
+
+> Coming soon — or run locally using the steps below.
+
+---
+
+## 📦 Features
+
+- ✅ Gemini 2.0 Flash integration (via LiteLLM)
+- ✅ Clean and modern Streamlit UI
+- ✅ Realtime response from Gemini model
+- ✅ Auto-clear input box after each message
+- ✅ Styled submit button
+
+---
+
+## 🔧 Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/Yasar786AbdulRazaq/personal-ai-chatbot.git
+cd personal-ai-chatbot
+#streamlit run app.py
